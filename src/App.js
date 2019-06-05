@@ -9,6 +9,7 @@ class App extends Component {
       <Router>
         <div>
             {/* <Route  path ='/' component={Root} /> */}
+            
             <Root/>
         </div>
       </Router>
